@@ -1,0 +1,7 @@
+venv
+.python-version
+Mysql-prod-conn.kdb
+Mysql-stage-conn.kdb
+Datasets
+.meta
+repository.log
