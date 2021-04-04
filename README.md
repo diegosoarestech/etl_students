@@ -1,4 +1,3 @@
-# etl_students
 <h1 align="center">Studants ETL</h1>
 
 
@@ -18,7 +17,7 @@
 
 1. Clone ou faça o download deste repositório.
 
-2. Execute o camando `pip install - r requirements.txt` para instalar as dependências necessárias.
+2. Execute o camando `pip install -r requirements.txt` para instalar as dependências necessárias.
 
 3. Execute o arquivo `create_staging.sql` para criar a estrutura do banco de dados de staging.
 
