@@ -8,5 +8,7 @@
 
 <ul>
  <li>Definir a modelagem de uma base analítica para que seja otimizada a análise do perfil.<li/>
-
+<li>usuários do PD acessam na nossa plataforma e como fazem isso. Analise os dados
+para extrair as informações que você julgue serem relevantes para entender o
+comportamento do usuário.<li/>
 </ul>
